@@ -4,7 +4,6 @@ listes simplements chainees + quelques operations
 """
 from tycat import data_tycat, trace
 
-
 class Cellule:
     """
     une cellule d'une liste. contient une valeur et un pointeur
