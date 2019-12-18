@@ -2,7 +2,6 @@
 """
 geometrie
 """
-
 from random import randint
 class Point:
     """
